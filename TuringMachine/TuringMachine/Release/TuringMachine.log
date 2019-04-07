@@ -1,0 +1,9 @@
+﻿  TuringMachine.cpp
+c:\users\samona\desktop\2019-1\고오급놀리\turing\turingmachine\turingmachine\turingmachine.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\samona\desktop\2019-1\고오급놀리\turing\turingmachine\turingmachine\turingmachine.cpp(156): warning C4101: 'tmp': unreferenced local variable
+  Generating code
+  1 of 280 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TuringMachine.vcxproj -> C:\Users\samona\Desktop\2019-1\고오급놀리\Turing\TuringMachine\Release\TuringMachine.exe
