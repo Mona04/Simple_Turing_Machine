@@ -4,7 +4,8 @@ To study "Computability and Logic" by George S. Boolos, turing machine simulator
 
 you just edit turing.txt.
 
-Uploaded turing.txt is for funtion mim(a, b).
+Uploaded txt file is my solution of the example of the book.
+If you want to use other txt file, just rename turing.txt
 
 turing.txt is composed of 5 int and char.
 
